@@ -1,0 +1,2 @@
+# box-Sorting
+Sorting Boxes The parcel section of the Head Post Office is in a mess.  The parcels that need to be loaded to the vans have been lined up in a row in an arbitrary order of weights.  The Head Post Master wants them to be sorted in the increasing order of the weights of the parcels, with one exception.  He wants the heaviest (and presumably the most valuable) parcel kept nearest his office.
