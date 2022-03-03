@@ -1,4 +1,4 @@
-# def swap():
+
 from operator import index
 from traceback import print_tb
 from turtle import position
@@ -35,21 +35,3 @@ boxes.insert(High_wight-1, max_weight)
 boxes.pop()
 print(boxes)
 print(effort)
-
-# swap(High_wig5ht-1,max_weight)
-
-# array = []
-# array1 = []
-# array2 = []
-# for k in range(0, array, 1):
-#     array.append(int(input(k)))
-
-# for k in range(0, k < array, 1):
-#     array2[k] = array[k]
-
-# for k in range(0, k < array, 1):
-#     array1[k] = array[k]
-# sort(array1)
-# max = max(array1)
-# print(prep())
-# print()
